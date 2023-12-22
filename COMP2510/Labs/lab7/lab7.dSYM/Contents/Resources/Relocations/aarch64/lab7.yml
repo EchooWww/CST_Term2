@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/echo/Desktop/T2/C2510/Labs/lab7/lab7'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _compareStudents, symObjAddr: 0x0, symBinAddr: 0x100003774, symSize: 0x13C }
+  - { offsetInCU: 0x4E, offset: 0x4E, size: 0x8, addend: 0x0, symName: _compareStudents, symObjAddr: 0x0, symBinAddr: 0x100003774, symSize: 0x13C }
+  - { offsetInCU: 0xCA, offset: 0xCA, size: 0x8, addend: 0x0, symName: _partition, symObjAddr: 0x13C, symBinAddr: 0x1000038B0, symSize: 0x148 }
+  - { offsetInCU: 0x154, offset: 0x154, size: 0x8, addend: 0x0, symName: _sort, symObjAddr: 0x284, symBinAddr: 0x1000039F8, symSize: 0x80 }
+  - { offsetInCU: 0x1A2, offset: 0x1A2, size: 0x8, addend: 0x0, symName: _countLines, symObjAddr: 0x304, symBinAddr: 0x100003A78, symSize: 0x94 }
+  - { offsetInCU: 0x1E6, offset: 0x1E6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x398, symBinAddr: 0x100003B0C, symSize: 0x3CC }
+...

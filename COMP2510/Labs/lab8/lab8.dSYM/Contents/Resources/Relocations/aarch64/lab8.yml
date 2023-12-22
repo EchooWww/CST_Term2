@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/echo/Desktop/T2/C2510/Labs/lab8/lab8'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _detectOverflow, symObjAddr: 0x0, symBinAddr: 0x100003D2C, symSize: 0xC8 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _detectOverflow, symObjAddr: 0x0, symBinAddr: 0x100003D2C, symSize: 0xC8 }
+  - { offsetInCU: 0xDB, offset: 0xDB, size: 0x8, addend: 0x0, symName: _logicalAdder, symObjAddr: 0xC8, symBinAddr: 0x100003DF4, symSize: 0xF0 }
+  - { offsetInCU: 0x161, offset: 0x161, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1B8, symBinAddr: 0x100003EE4, symSize: 0x44 }
+...

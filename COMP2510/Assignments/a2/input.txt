@@ -1,0 +1,12 @@
+John Doe Jan-15-1995 3.9 D
+Alice Bob Sep-15-1994 3.9 D
+Emily Liu Dec-2-1994 3.9 D
+Henry Smith Dec-1-1994 3.900 D
+Henry Dmith Dec-1-1994 3.9 D
+Benry Dmith Dec-1-1994 3.9 D
+Benry Dmith Dec-1-1994 3.7 D
+Benry Dmith Dec-1-1994 3.7 I 120
+Bob Lee Dec-1-1994 3.7 I 90
+Grace Kim Dec-1-1993 3.8 I 90
+
+Jane Doe Sep-1-1994 4 I 90

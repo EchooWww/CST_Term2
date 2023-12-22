@@ -1,0 +1,11 @@
+Grace Kim Dec-1-1993 3.8 I 90
+Jane Doe Sep-1-1994 4 I 90
+Alice Bob Sep-15-1994 3.9 D
+Benry Dmith Dec-1-1994 3.7 D
+Benry Dmith Dec-1-1994 3.7 I 120
+Benry Dmith Dec-1-1994 3.9 D
+Henry Dmith Dec-1-1994 3.9 D
+Bob Lee Dec-1-1994 3.7 I 90
+Henry Smith Dec-1-1994 3.900 D
+Emily Liu Dec-2-1994 3.9 D
+John Doe Jan-15-1995 3.9 D

@@ -1,0 +1,43 @@
+public class Crate
+
+{
+
+private int length;
+
+private int width;
+
+private int height;
+
+public Crate(int x, int y, int z)
+
+{
+
+length = x;
+
+width = y;
+
+height = z;
+
+}
+
+//other methods not shown
+
+}
+
+The following incomplete class declaration is intended to extend the Crate class so that the color of the crate can be specified.
+
+public class ColoredCrate extends Crate
+
+{
+
+private String color;
+
+//Constructors not shown
+
+//Other methods not shown
+
+}www.apstudy.net
+
+---------------------
+
+Source Url:https://www.apstudy.net/ap/computer-science-a/question-128-answer-and-explanation.html

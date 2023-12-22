@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/echo/Desktop/T2/C2510/Assignment/assignment1/a1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _checkLongWords, symObjAddr: 0x0, symBinAddr: 0x1000033C4, symSize: 0x94 }
+  - { offsetInCU: 0x4C, offset: 0x4C, size: 0x8, addend: 0x0, symName: _checkLongWords, symObjAddr: 0x0, symBinAddr: 0x1000033C4, symSize: 0x94 }
+  - { offsetInCU: 0xAC, offset: 0xAC, size: 0x8, addend: 0x0, symName: _formatWords, symObjAddr: 0x94, symBinAddr: 0x100003458, symSize: 0x638 }
+  - { offsetInCU: 0x220, offset: 0x220, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6CC, symBinAddr: 0x100003A90, symSize: 0x3C0 }
+...
